@@ -4,14 +4,14 @@
 
 const DRIVE_PHOTOS = {
     // İlk sayfa fotoğrafları
-    photo1: 'GOOGLE_DRIVE_LINK_BURAYA', // photo1.JPG için
-    photo2: 'GOOGLE_DRIVE_LINK_BURAYA', // photo2.JPG için
-    photo3: 'GOOGLE_DRIVE_LINK_BURAYA', // photo3.JPG için
+    photo1: '1mfM5kOKahbBTy98BxfKvrU6gaA4Kehom', // photo1.JPG için
+    photo2: '1_yxDBQVw79iPyWg--pyaMCyYBg2sgXfh', // photo2.JPG için
+    photo3: '1pU6XIpoTQkGJKyqlNQUMGBN_N5JIHopo', // photo3.JPG için
     
     // Surprise sayfası fotoğrafları
-    surprise1: 'GOOGLE_DRIVE_LINK_BURAYA', // surprise1.JPG için
-    surprise2: 'GOOGLE_DRIVE_LINK_BURAYA', // surprise2.JPG için
-    surprise3: 'GOOGLE_DRIVE_LINK_BURAYA'  // surprise3.PNG için
+    surprise1: '1vtDO8aYm3p3Njli1TSYYIBUR7j5aTf29', // surprise1.JPG için
+    surprise2: '1N9N782N_xnwmwkwoipsy6kk_PbziPFOk', // surprise2.JPG için
+    surprise3: '1eNP-0YKl8dzJoOf5eBl-_9tiihmm7pZm'  // surprise3.PNG için
 };
 
 // Fonksiyon: Dosya ID'sinden görsel linki oluştur
